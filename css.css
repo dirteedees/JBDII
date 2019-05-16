@@ -11,8 +11,14 @@ black background
 #Frame {
 
     color: #224D18;
+    align-content: center;
 }
 
 #pic {
     outline: #2821D1;
+    align-content: center;
+}
+
+img {
+
 }
