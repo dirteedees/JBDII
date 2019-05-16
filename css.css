@@ -1,0 +1,18 @@
+/* Dark/blue halo around pic 
+contrasting (dark) green frame 
+white font
+black background
+*/
+
+#BG {
+    color: black;
+}
+
+#Frame {
+
+    color: #224D18;
+}
+
+#pic {
+    outline: #2821D1;
+}
