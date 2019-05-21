@@ -5,7 +5,7 @@ black background
 */
 
 body {
-    color: black;
+    background-color: black;
 }
 
 #Frame {
@@ -21,4 +21,5 @@ body {
 
 img {
     width: 250px;
+    border-radius: 25%;
 }
