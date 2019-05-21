@@ -4,7 +4,7 @@ white font
 black background
 */
 
-#BG {
+body {
     color: black;
 }
 
@@ -19,4 +19,6 @@ black background
     align-content: center;
 }
 
-img {}
+img {
+    width: 250px;
+}
