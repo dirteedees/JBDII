@@ -4,7 +4,7 @@ white font
 black background
 */
 
-#BG {
+body {
     color: black;
 }
 
@@ -20,5 +20,5 @@ black background
 }
 
 img {
-
+    width: 250px;
 }
